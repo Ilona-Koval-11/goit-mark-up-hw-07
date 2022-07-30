@@ -257,7 +257,9 @@ textarea {
     justify-content: center;
     width: 16px;
     height: 15px;
-    fill: var(--color-main);
+    background-color: var(--secondary-color);
+    fill: var(--minor-color);
+
     
 }
 }

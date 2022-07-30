@@ -119,7 +119,7 @@ textarea {
 
 .modal__form--iconed {
     position: absolute;
-    fill: currentColor;
+    fill: var(--color-main);
     transition-property: fill;
     transition-duration: 250ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
